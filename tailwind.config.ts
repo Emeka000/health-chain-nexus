@@ -61,6 +61,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Health-Chain custom colors
+				teal: {
+					DEFAULT: '#0AACB6',
+					light: '#E3F6F5',
+					dark: '#078F99'
+				},
+				blue: {
+					deep: '#1C3654',
+					light: '#E3F6F5'
+				},
+				orange: {
+					accent: '#FF6B35'
 				}
 			},
 			borderRadius: {
